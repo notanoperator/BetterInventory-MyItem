@@ -30,7 +30,7 @@ minecraft:emerald_block 1 0 {display:{Name:"&4&lL&c&lo&6&lg &e&lB&2&ll&a&lo&b&lc
 minecraft:barrier 1 0 {display:{Name:"&5Potions"}}
 //
 //Drink Potions
-//
+//yummy
 minecraft:potion 1 0 {HideFlags:63,display:{Name:"&2&lLucky &6&lPotion"},CustomPotionEffects:[{Id:26,Amplifier:100,Duration:50000}]}
 minecraft:potion 1 0 {HideFlags:63,display:{Name:"&4&lBad &2&lLuck &6&lPotion"},CustomPotionEffects:[{Id:27,Amplifier:100,Duration:50000}]}
 minecraft:potion 1 0 {HideFlags:63,display:{Name:"&c&lSlowness &6&lPotion"},CustomPotionEffects:[{Id:2,Amplifier:100,Duration:50000}]}
